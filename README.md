@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Public Transport and Clean Mobility System
 
 A responsive full-stack student demo project for exploring sample public transport routes, planning a trip, comparing illustrative carbon emissions, and submitting feedback.
@@ -83,3 +84,7 @@ Smart_Public_Transport_and_Clean_Mobility_System/
 5. Submit a short feedback message.
 6. Open `data/feedback.json` to show that feedback was saved.
 7. Visit `http://localhost:3000/api/health` to show a backend response.
+=======
+# Smart-Public-Transport-and-Clean-Mobility-System
+Smart Public Transport and Clean Mobility System using HTML, CSS, JavaScript and Node.js.
+>>>>>>> 598391f443b74aa2af31b90aae501ceed44884af
