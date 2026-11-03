@@ -1,0 +1,9 @@
+{
+  "name": "smart-public-transport-clean-mobility",
+  "version": "1.0.0",
+  "description": "A demo full-stack smart public transport and clean mobility dashboard built with Node.js and vanilla HTML, CSS, and JavaScript.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
